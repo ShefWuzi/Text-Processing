@@ -1,0 +1,12 @@
+TIME (retrieval): 0.14
+-------------------------------------------
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          49
+Prec/Rec/F across all queries:
+    Precision:       0.08
+    Recall:          0.06
+    F-measure:       0.07
+
